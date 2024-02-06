@@ -1,0 +1,9 @@
+.github/*
+logs
+*.log
+npm-debug.log*
+
+
+.env
+tools/
+tests/
