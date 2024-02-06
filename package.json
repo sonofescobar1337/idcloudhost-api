@@ -1,0 +1,31 @@
+{
+  "name": "idcloudhost-api",
+  "version": "2024.02.06",
+  "description": "Unofficial IDCloudhost Javascript API Module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "example": "nodemon example.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sonofescobar1337/idcloudhost-api.git"
+  },
+  "keywords": [
+    "idcloudhost",
+    "idcloudhost-api",
+    "api",
+    "idcloudhost-api-Module",
+    "client",
+    "node"
+  ],
+  "author": "sonofescobar1337",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/sonofescobar1337/idcloudhost-api/issues"
+  },
+  "homepage": "https://github.com/sonofescobar1337/idcloudhost-api#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
