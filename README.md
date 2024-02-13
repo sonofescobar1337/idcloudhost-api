@@ -9,7 +9,7 @@ Idcloudhost-API is a comprehensive Node.js module designed to seamlessly integra
 * [Guide / Getting Started](https://sonofescobar1337.dev/) _(Comingsoon)_
 * [Reference documentation](https://sonofescobar1337.dev/) _(Comingsoon)_
 * [GitHub](https://github.com/sonofescobar1337/idcloudhost-api)
-* [npm](https://npmjs.org/package/) _(Comingsoon)_
+* [npm](https://www.npmjs.com/package/idcloudhost-api)
 
 
 ## Installation
