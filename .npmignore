@@ -7,3 +7,6 @@ npm-debug.log*
 .env
 tools/
 tests/
+node_modules
+package-lock.json
+dev.js
