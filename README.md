@@ -79,7 +79,7 @@ async function somethingFunction() {
 somethingFunction()
 ```
 
-Take a look at [example.js](https://github.com/sonofescobar1337/idcloudhost-api/blob/master/example.js) for another example with more use cases.
+Take a look at [example.js](https://github.com/sonofescobar1337/idcloudhost-api/blob/main/example.js) for another example with more use cases.
 
 
 ## GET FREE CREDIT FROM IDCLOUDHOST 
